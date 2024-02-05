@@ -14,3 +14,17 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 255, 0.366);
 }
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    width: 200px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+
